@@ -1,0 +1,5 @@
+[{"id":1,"name":"Aprender JavaScript","phone":654323456, "description": "Aprender JavaScript con el curso de Escuela de JavaScript"},
+{"id":2,"name":"Terminar los ejercicios","phone":678765434, "description": "Terminar todos los ejercicios del curso de Escuela de JavaScript"},
+{"id":3,"name":"Hacer 100 sentadillas","phone":643214567, "description": "Hacer 100 sentadillas para fortalecer las piernas"},
+{"id":4,"name":"Hacer 100 abdominales","phone":679543267, "description": "Hacer 100 abdominales para fortalecer el abdomen"}
+]
